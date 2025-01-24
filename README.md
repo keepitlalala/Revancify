@@ -1,8 +1,6 @@
 # Revancify 🛠️
 ### A TUI wrapper for Revanced CLI with amazing features.
 
-[![TelegramChannel](https://img.shields.io/badge/Telegram_Support_Chat-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/decipher_projects)
-
 ## Termux
 
 <table>
