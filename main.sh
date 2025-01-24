@@ -2,7 +2,7 @@
 
 main() {
 
-    setEnv SOURCE "ReVanced" init .config
+    setEnv SOURCE "Anddea" init .config
     setEnv LIGHT_THEME "off" init .config
     setEnv PREFER_SPLIT_APK "on" init .config
     setEnv LAUNCH_APP_AFTER_MOUNT "on" init .config
