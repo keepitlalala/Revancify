@@ -53,7 +53,7 @@ fetchAssetsInfo() {
                 return 1
             fi
         else
-            PATCHES_API_URL="https://api.github.com/repos/$REPO/releases/latest"
+            PATCHES_API_URL="https://api.github.com/repos/$REPO/releases"
         fi
 
         if ! "${CURL[@]}" "$PATCHES_API_URL" | jq -r '
